@@ -1,0 +1,1 @@
+lib/storage.ts con funciones centralizadas: getUsers/saveUsers, getCurrentUser/setCurrentUser/logout, getPosts/savePosts, getConnections/saveConnections, getMessages/saveMessages, getProjects/saveProjects, getEvents/saveEvents, getJobs/saveJobs, getCommunities/saveCommunities, getNotifications/saveNotifications.
